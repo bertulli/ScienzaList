@@ -124,6 +124,8 @@ The contribution with resources in commons licences is appreciated. Please use p
 ### Websites
 
 - [Visualization of common algorithms](https://visualgo.net/en)
+- [Visualization and simulation of algorithms](https://www.cs.usfca.edu/~galles/visualization/)
+    > Another website that provides visualization and custom simulation of various algorithms and data structures, e.g., trees
 - [Visualization of machine learning principles](http://www.r2d3.us/)
 - [Kaggle](https://www.kaggle.com/)
     > Famed website for learning and practicing data science. Public datasets and competitions available for all skills.
@@ -132,6 +134,8 @@ The contribution with resources in commons licences is appreciated. Please use p
 - [JFLAP (download)](http://www.jflap.org/)
     > Multiplatform application to play with automata and Turing machines.
 - [Advanced introduction to Mathematica](https://www.mathprogramming-intro.org)
+- [LearnCpp.com](https://www.learncpp.com/)
+    > An excellent website providing a complete course on C++. Can be read as a book, provides plenty of best practices, and it is quite updated (at least on C++11).
 
 ### Online Books
 
